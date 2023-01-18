@@ -136,4 +136,8 @@ julien@ubuntu:~/monty$
 19. Multiplication level up
 
     Multiply two digits given by the user.
-    
+
+
+## Author:
+
+[Mehari Hagos](https://github.com/Hagos2022/monty/)
