@@ -141,4 +141,5 @@ julien@ubuntu:~/monty$
 ## Authors:
 
 [Mehari Hagos](https://github.com/Hagos2022/monty/)
+
 [Letina Sandaiya](https://github.com/Letina-sage)
