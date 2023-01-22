@@ -138,8 +138,6 @@ julien@ubuntu:~/monty$
     Multiply two digits given by the user.
 
 
-## Authors:
+## Author:
 
 [Mehari Hagos](https://github.com/Hagos2022/monty/)
-
-[Letina Sandaiya](https://github.com/Letina-sage)
